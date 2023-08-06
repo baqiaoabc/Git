@@ -4,4 +4,4 @@ second2
 amend
 
 
-local conflict 2
+remote conflict 3
