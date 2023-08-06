@@ -4,5 +4,5 @@ second2
 amend
 
 
-remote conflict
+remote conflict 1
 
