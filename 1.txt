@@ -2,3 +2,5 @@ first 2
 
 second2
 amend
+
+remote conflict
