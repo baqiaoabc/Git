@@ -1,7 +1,3 @@
-first 2
-
-second2
-amend
 
 
 Local conflict 0
