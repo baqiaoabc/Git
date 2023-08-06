@@ -1,3 +1,5 @@
 remote 1
 
 Local conflict 0
+
+remote commit
