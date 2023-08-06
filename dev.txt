@@ -2,4 +2,4 @@
 ammend 2
 嗄阿萨
 
-remote dev 0
+local dev 1
